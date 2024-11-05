@@ -3,7 +3,7 @@
 <a href="https://x.com/jeanbitschnau"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
 <a href="https://www.instagram.com/jeanpaulbitschnau/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-I'm a 20y old System Engineer from Switzerland :switzerland:.  
+I'm a 21 year old System Engineer from Switzerland :switzerland:.  
 I am highly interested in technology, especially in the areas of cybersecurity, virtualization and linux.
 
 stuff I work with:
