@@ -34,8 +34,9 @@ I am highly interested in technology, especially in the areas of cybersecurity, 
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
 
 
-
-More about me and my projects :point_right: [website](https://jeanpaulbitschnau.dev).
+👇 More about me:
+    
+<a href="https://jeanpaulbitschnau.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
 
 <!--
 **jnp153/jnp153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
